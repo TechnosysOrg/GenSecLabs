@@ -1,1 +1,1 @@
-# GenSecLabs
+# Generative Security Laboratories
